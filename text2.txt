@@ -1,1 +1,14 @@
 status
+   1fd18b7..ee59012  master     -> origin/master
+Updating 1fd18b7..ee59012
+Fast-forward
+ text3.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 text3.txt
+PS C:\workspace> git pulk
+git: 'pulk' is not a git command. See 'git --help'.
+git: 'pulk' is not a git command. See 'git --help'.
+git: 'pulk' is not a git command. See 'git --help'.
+git: 'pulk' is not a git command. See 'git --help'.
+git: 'pulk' is not a git command. See 'git --help'.
+
